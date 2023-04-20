@@ -4,6 +4,8 @@ This is a school project a textadventure game to learn refactoring.
 + **What is the game theme?**  Si Fi scenario with robots. 
 + **Who is the player?** the player slips into the role of Eduard the service robot. 
 + **What is the goal?** keep your godhuman alive (does not die of thirst) until rescue is approaching.   
++ **Referenz Resolution**: 1920x1080
++ Open Text101 Scene
 
 **Storyplot**: An unfortunate accident destroyed all water inventories in Xland and dameged some assitance robots in a way they 
 think to be fighting robots. 
@@ -15,6 +17,7 @@ Eduard now has the goal to find the wool before the fighting robots, who also ai
 produce laser weapons on the basis of acron. 
 
 **Development platform**: Windows 10; Unity 2020.3.18f1, Visual Studio 2019
+
 
 **Third-Party Sources**: 
 + Fonts: google fonts. 
